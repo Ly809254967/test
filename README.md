@@ -1,2 +1,2 @@
-# test
-测试从远程库拉取代码
+# CIJD
+使用jenjins docker github 实现持续集成.
